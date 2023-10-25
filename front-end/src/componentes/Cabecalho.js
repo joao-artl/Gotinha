@@ -1,4 +1,4 @@
-import './header.css';
+import './style.css';
 import LogoGO from '../img/goImg.png';
 
 function Cabecalho() {
