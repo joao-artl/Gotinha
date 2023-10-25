@@ -1,0 +1,152 @@
+.header {
+    width: 100vw;
+    background: #1F7A8C;
+    height: 100px;
+    display: flex;
+    position: fixed;
+    z-index: 9999;
+}
+
+.logo {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.navegacaoMenu {
+    color: #BFDBF7;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 36px;
+    display: flex;
+    justify-content: center;
+    gap: 147px;
+    margin-left: 230px;
+}
+
+.texto1 {
+    color: #000;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 168px;
+    width: 657px;
+}
+
+.flexCenter {
+    display: flex;
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.bloco1 {
+    width: 494px;
+    height: 460px;
+    border-radius: 50px;
+    background: #2E7D9A;
+    margin-left: 56px;
+    margin-top: 68px;
+}
+
+.tituloBloco {
+    color: #EEF0F2;
+    margin-top: 48px;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.textoBloco {
+    width: 359px;
+    color: #EEF0F2;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 68px;
+    margin-top: 32px;
+}
+
+.bloco2 {
+    width: 644px;
+    height: 460px;
+    border-radius: 50px;
+    background: #2E7D9A;
+    margin-left: 144px;
+    margin-top: 68px;
+    display: block;
+}
+
+.textoBloco2 {
+    color: #EEF0F2;
+    text-align: center;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.button {
+    width: 228px;
+    height: 67px;
+    border-radius: 30px;
+    background: #022B3A;
+    color: #EEF0F2;
+    display: flex;
+    justify-content: center;
+    /* Centraliza o conteúdo horizontalmente */
+    align-items: center;
+    /* Centraliza o conteúdo verticalmente */
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 53px;
+    margin-left: -170px;
+}
+
+.flexButton {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.faixa {
+    width: 100vw;
+    height: 150px;
+    flex-shrink: 0;
+    background: #1F7A8C;
+    margin-top: 79px;
+}
+
+.blocosCinza {
+    margin-top: 55px;
+    margin-left: 34px;
+}
+
+.textoBlocoHome {
+    display: flex;
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 30px;
+    margin-top: 64px;
+}
+
+.logoUnB{
+    margin-left: 64px;
+    margin-top: 20px;
+}
