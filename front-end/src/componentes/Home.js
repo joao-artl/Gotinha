@@ -1,5 +1,6 @@
 import './style.css';
 import Header from './Cabecalho.js';
+import LogoUnB from '../img/unb.png'
 
 function Home() {
     return (
@@ -99,14 +100,17 @@ function Home() {
             <div className="faixa">
                 <div className="flex">
                     <div className="blocosCinza">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="504" height="58" viewBox="0 0 504 58" fill="none">
-                        <path d="M0 0H179V58H0V0Z" fill="#D9D9D9" />
-                        <path d="M202 0H264V58H202V0Z" fill="#D9D9D9" />
-                        <path d="M294 0H504V58H294V0Z" fill="#D9D9D9" />
-                    </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="504" height="58" viewBox="0 0 504 58" fill="none">
+                            <path d="M0 0H179V58H0V0Z" fill="#D9D9D9" />
+                            <path d="M202 0H264V58H202V0Z" fill="#D9D9D9" />
+                            <path d="M294 0H504V58H294V0Z" fill="#D9D9D9" />
+                        </svg>
                     </div>
                     <div className="textoBlocoHome">
                         Todos os direitos reservados
+                    </div>
+                    <div className="logoUnB">
+                        <img src={LogoUnB} alt="Logo UnB" className="logoUnB" />
                     </div>
                 </div>
             </div>
