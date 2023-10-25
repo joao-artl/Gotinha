@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gotinha/static/css/main.0a249986.css",
+    "main.js": "/Gotinha/static/js/main.a8d580b5.js",
+    "static/js/787.22edae46.chunk.js": "/Gotinha/static/js/787.22edae46.chunk.js",
+    "index.html": "/Gotinha/index.html",
+    "main.0a249986.css.map": "/Gotinha/static/css/main.0a249986.css.map",
+    "main.a8d580b5.js.map": "/Gotinha/static/js/main.a8d580b5.js.map",
+    "787.22edae46.chunk.js.map": "/Gotinha/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a249986.css",
+    "static/js/main.a8d580b5.js"
+  ]
+}
